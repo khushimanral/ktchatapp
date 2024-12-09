@@ -7,7 +7,7 @@ export default defineConfig({
   server:{
     proxy:{
       '/api':{
-        target:'https://slrtech-chatapp.onrender.com/',
+        target:'https://ktchatappok.onrender.com/',
         secure:false
       }
     }
